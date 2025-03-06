@@ -1,13 +1,31 @@
-Nesta atividade, você deverá criar um passo a passo detalhado sobre como criar uma conta no GitHub e como configurar um Codespace. O objetivo é desenvolver habilidades práticas no uso dessa ferramenta essencial para desenvolvimento de
-Instruções:
-1. Criando uma conta no GitHub:
-Acesse o site GitHub e clique em "Sign up" (Registrar).
-Complete o formulário com seu nome de usuário, e-mail e senha.
-Confirme sua conta por meio do e-mail de verificação enviado pelo GitHub.
-Finalize a configuração inicial da conta.
-2. Criando um Codespace:
-Faça login na sua conta do GitHub.
-Crie um novo repositório ou use um existente.
-Acesse a aba "Code" e selecione a opção "Codespaces"
-Clique em "Create codespace on main" para iniciar seu ambiente de desenvolvimento na nuvem.
-Aguarde a configuração do Codespace.
+Documentação com Prints:
+
+
+Capture prints de cada etapa, incluindo:
+
+
+Tela de criação da conta.
+A
+
+Tela de login após a ativação da conta.
+alil
+
+Página do repositório no GitHub.
+
+
+Tela da criação do Codespace.
+
+
+Tela do Codespace carregado, exibindo o link do ambiente.
+
+Informações Adicionais
+Marcadores
+Insira os prints no documento explicando cada etapa de forma clara e objetiva.
+Entrega:
+Crie um documento em PDF, Word ou direto nas anotações contendo o passo a passo com as capturas de tela.
+Certifique-se de que o link do seu Codespace esteja visível no documento.
+Submeta o arquivo na plataforma de envio até a data estipulada.
+Critérios de Avaliação:
+* Clareza e organização em ordem temporal
+* Passo a passo completo, detalhado, objetivo e simples para qualquer pessoa entender
+* Link do Codespace
